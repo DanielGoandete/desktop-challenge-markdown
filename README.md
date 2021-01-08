@@ -17,11 +17,11 @@ I am very helpfull and my coleagues and friends can always count on me.
     <td>male</td>
   </tr>
   <tr>
-    <td>Favorite color: ?</td>
+    <td>Favorite color:</td>
     <td>red</td>
   </tr>
   <tr>
-    <td>Favorite food: ?
+    <td>Favorite food:
 </td>
     <td>steak and salad potatos</td>
   </tr>
