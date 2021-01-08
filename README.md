@@ -3,7 +3,7 @@
 ![](https://media-exp1.licdn.com/dms/image/C4E03AQEN380_xm-APQ/profile-displayphoto-shrink_100_100/0/1579436251653?e=1614211200&v=beta&t=D_YZebaNW_EbXTfmxg7nyr82wtdNzYAaazFq6DNaa2Q)
 
 ### About me:
-after i will see about it!!!
+I am very helpfull and my coleagues and friends can always count on me.
 
 <table>
   <caption>Daniel's details</caption>
