@@ -35,3 +35,31 @@ after i will see about it!!!
     </td>
   </tr>
 </table>
+
+# My Hobbies
+
+<ul>
+  <li>Play Music</li>
+    <dd>* I love to play Cavaquinho that is a Braziliam instrument</dd>
+  <li>Watch Series</li>
+    <dd>* I love all kinds of Series</dd>
+  <li>Play video Game</li>
+    <dd>* fight games is my favorit</dd>
+</ul>
+
+
+### You can always count on me when!
+
+need some help because more than one head can think better togheter.
+
+### A funny story
+
+At my first day on BeCode before i leave my house, i put on google maps to see the exactly location and do not be lost, then arriving at Charleroi sud, I arrived at the wrong building then I went arround the corner to search and nothing, then I called someone from Becode and the Building was just close to the train station :)
+
+<details>
+  <summary>Be Lost</summary>
+  <p>after more or less 20 min I arrived late at BeCode</p>
+</details>
+
+
+
