@@ -1,6 +1,6 @@
 # *Daniel Goandete*
 
-![teste](https://media-exp1.licdn.com/dms/image/C4E03AQEN380_xm-APQ/profile-displayphoto-shrink_100_100/0/1579436251653?e=1614211200&v=beta&t=D_YZebaNW_EbXTfmxg7nyr82wtdNzYAaazFq6DNaa2Q)
+![](https://media-exp1.licdn.com/dms/image/C4E03AQEN380_xm-APQ/profile-displayphoto-shrink_100_100/0/1579436251653?e=1614211200&v=beta&t=D_YZebaNW_EbXTfmxg7nyr82wtdNzYAaazFq6DNaa2Q)
 
 ### About me:
 after i will see about it!!!
@@ -63,3 +63,4 @@ At my first day on BeCode before i leave my house, i put on google maps to see t
 
 
 
+<<[previous](https://github.com/becodeorg/CRL-Woods-4.27/blob/main/LearningPath/01.The-Field/03.MarkDown/2.challenge-markdown.md) || Daniel Goandete || [next](https://github.com/becodeorg/CRL-Woods-4.27/blob/main/LearningPath/01.The-Field/03.MarkDown/2.challenge-markdown.md)>>
