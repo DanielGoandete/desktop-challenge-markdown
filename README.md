@@ -63,4 +63,4 @@ At my first day on BeCode before i leave my house, i put on google maps to see t
 
 
 
-<<[previous]( https://github.com/fredgaloppin/challenge-markdown/blob/main/index.md) || Daniel Goandete || [next](https://github.com/becodeorg/CRL-Woods-4.27/blob/main/LearningPath/01.The-Field/03.MarkDown/2.challenge-markdown.md)>>
+<<[previous]( https://github.com/fredgaloppin/challenge-markdown/blob/main/index.md) || Daniel Goandete || [next](https://hanloi.github.io/markdown/)>>
