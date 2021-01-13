@@ -2,12 +2,22 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
     font-size: 14px;
     line-height: 1.6;
-
+    background-image: url("https://wallpaperstock.net/wallpapers/thumbs1/42924wide.jpg");
+    background-position: center;
+    text-align: center; 
+    
 }
+table{
+    text-align: center;
+}
+
 
 .task-list-item { 
     list-style-type: none; 
 } 
 .task-list-item-checkbox { 
     margin-left: -20px; vertical-align: middle; 
+}
+p ,a, li {
+    color: white;
 }
